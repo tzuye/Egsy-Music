@@ -1,7 +1,7 @@
 {
-  "name": "Rio Music Bot",
+  "name": "Egsy Music Bot",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/RioProjectX/TgMusic",
+  "repository": "https://github.com/tzuye/Egsy-Music",
   "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg",
   "keywords": [
   "python3",
@@ -52,7 +52,7 @@
     },
     "SUPPORT_CHANNEL": {
       "description": "Support Channel Link if you have any, Leave blank if no support. Your link must start with https://t.me/",
-      "value": "https://t.me/rioprojects",
+      "value": "https://t.me/atmosveryx",
       "required": false
     },
     "SUPPORT_GROUP": {
