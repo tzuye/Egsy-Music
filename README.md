@@ -1,4 +1,4 @@
-<h1 align= center><b>⭐️ Rio Music Bot ⭐️</b></h1>
+<h1 align= center><b>⭐️ Egsy Music Bot ⭐️</b></h1>
 <h3 align = center> A Telegram Music Bot written in Python using Pyrogram and Py-Tgcalls </h3>
 
 
