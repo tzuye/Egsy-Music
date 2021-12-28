@@ -41,7 +41,7 @@
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/rioprojectx/Rio-Music
+shikhar@MacBook~ $ git clone https://github.com/tzuye/Egsy-Music
 shikhar@MacBook~ $ cd YukkiMusicBot
 shikhar@MacBook~ $ pip3 install -U -r requirements.txt
 shikhar@MacBook~ $ cp sample.env .env
@@ -53,7 +53,7 @@ shikhar@MacBook~ $ cp sample.env .env
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/RioProjectX/Rio-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/tzuye/Egsy-Music"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 </p>
 
@@ -70,7 +70,7 @@ shikhar@MacBook~ $ cp sample.env .env
 </h3>
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/rioprojectx/RiO-Music
+shikhar@MacBook~ $ git clone https://github.com/tzuye/Egsy-Music
 shikhar@MacBook~ $ cd YukkiMusicBot
 shikhar@MacBook~ $ pip3 install pyrogram TgCrypto
 shikhar@MacBook~ $ python3 gen_session.py
@@ -101,8 +101,8 @@ shikhar@MacBook~ $ python3 gen_session.py
 </h2>
 
 <p align="center">
-<a href="https://t.me/RIoprojects"><img src="https://img.shields.io/badge/Yukki%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
-<a href="https://t.me/fckualot"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
+<a href="https://t.me/atmosveryx"><img src="https://img.shields.io/badge/Yukki%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
+<a href="https://t.me/egsycaspo"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
 <a href="https://t.me/riogroupsupport"><img src="https://img.shields.io/badge/Yukki%20Support-blueviolet?style=for-the-badge&logo=telegram" width="195""/></a>
 </p>
 
